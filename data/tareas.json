@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t1",
+    "titulo": "Comprar pan",
+    "descripcion": "Comprar pan para el desayuno",
+    "estado": "Pendiente",
+    "creacion": "2025-11-01T09:00:00.000Z",
+    "ultimaEdicion": "2025-11-01T09:00:00.000Z",
+    "vencimiento": null,
+    "dificultad": "Fácil"
+  },
+  {
+    "id": "t2",
+    "titulo": "Entregar TP",
+    "descripcion": "Subir el trabajo práctico al formulario",
+    "estado": "En Curso",
+    "creacion": "2025-11-05T12:00:00.000Z",
+    "ultimaEdicion": "2025-11-10T15:00:00.000Z",
+    "vencimiento": "2025-11-10T23:59:00.000Z",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "2d9d3345-ad29-426f-85d0-9f487a7beae0",
+    "titulo": "j",
+    "descripcion": "h",
+    "estado": "Pendiente",
+    "creacion": "2025-11-25T18:39:30.662Z",
+    "ultimaEdicion": "2025-11-25T18:39:30.662Z",
+    "vencimiento": null,
+    "dificultad": "dificil"
+  }
+]

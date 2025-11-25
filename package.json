@@ -1,0 +1,13 @@
+{
+  "name": "tp4-paradigmas-funcional",
+  "version": "1.0.0",
+  "description": "TP4 - Lista de Tareas (Paradigma Funcional) - estructura igual al TP3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "uuid": "^13.0.0"
+  }
+}
